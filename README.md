@@ -15,4 +15,4 @@ In this workbook I try to investigate the inflation dynamics in Germany and cond
 **Method:** Multivariate Time Series Analysis
 
 
-I include Matlab-notebook and published PDF notebook.
+I include Matlab-notebook and published PDF notebook. Please head to https://htmlpreview.github.io/ and paste html link to see the preview.
