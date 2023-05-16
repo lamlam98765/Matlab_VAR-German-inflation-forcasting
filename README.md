@@ -4,7 +4,7 @@ After more than a decade of struggling with the mystery of the missing inflation
 
 In this workbook I try to investigate the inflation dynamics in Germany and conduct an out-of-sample forecasting exercise using Multivariate Time Series Analysis.
 
-**Data: ** 
+**Data:** 
 - CPI inflation (index)
 - Industrial production (index)
 - Orders received by industry (index)
