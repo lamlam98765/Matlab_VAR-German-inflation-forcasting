@@ -12,7 +12,7 @@ In this workbook I try to investigate the inflation dynamics in Germany and cond
 
 **Period:** 1991M1 to 2022M3
 
-**Method:** Multivariate Time Series Analysis
+**Method:** VAR model
 
 
 I include Matlab-notebook and published PDF notebook. Please head to https://htmlpreview.github.io/ and paste html link to see the preview.
