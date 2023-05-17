@@ -14,5 +14,11 @@ In this workbook I try to investigate the inflation dynamics in Germany and cond
 
 **Method:** VAR model
 
+**Content:**
+- Part 1: transform data into stationarity
+- Part 2, 3: find the best model based on information criteria AIC, BIC
+- Part 4: perform out-of-sample forecast
+![image](https://github.com/lamlam98765/Matlab_VAR-model-German-inflation-forcasting/assets/92735387/066d8db8-8da8-4d13-8864-af461453bb1d)
+ 
 
 I include Matlab-notebook and published PDF notebook. Please head to https://htmlpreview.github.io/ and paste html link to see the preview.
